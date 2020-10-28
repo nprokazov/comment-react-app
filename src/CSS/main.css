@@ -1,0 +1,11 @@
+#react-input {
+    margin: 0 auto;
+    padding-top: 2.5rem;
+    width: 500px;
+    height: 70vh;
+    overflow: auto;
+}
+
+p {
+    margin-left: .5rem;
+}
